@@ -1,1 +1,1 @@
-# JSBox
+JSBox-jsTool
